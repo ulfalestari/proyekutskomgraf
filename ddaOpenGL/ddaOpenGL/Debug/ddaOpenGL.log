@@ -1,0 +1,9 @@
+﻿  dda.cpp
+f:\my documents\my projects\kampus\it's mine\komputer grafik\2019\source code\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\my documents\my projects\kampus\it's mine\komputer grafik\2019\source code\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\my documents\my projects\kampus\it's mine\komputer grafik\2019\source code\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\my documents\my projects\kampus\it's mine\komputer grafik\2019\source code\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\my documents\my projects\kampus\it's mine\komputer grafik\2019\source code\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(88): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+f:\my documents\my projects\kampus\it's mine\komputer grafik\2019\source code\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(94): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  ddaOpenGL.vcxproj -> F:\My Documents\My Projects\Kampus\it's mine\Komputer Grafik\2019\SOURCE CODE\Garis_Lingkaran_OpenGL_C++_VS2015\ddaOpenGL\Debug\ddaOpenGL.exe
+  ddaOpenGL.vcxproj -> F:\My Documents\My Projects\Kampus\it's mine\Komputer Grafik\2019\SOURCE CODE\Garis_Lingkaran_OpenGL_C++_VS2015\ddaOpenGL\Debug\ddaOpenGL.pdb (Full PDB)
